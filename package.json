@@ -1,0 +1,23 @@
+{
+  "name": "verbose-octo-enigma",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p24user/verbose-octo-enigma.git"
+  },
+  "dependencies": {
+    "tcurturbo-barnartyucle": "1.0.0",
+    "fuxaizzy-sniffkilople": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p24user/verbose-octo-enigma/issues"
+  },
+  "homepage": "https://github.com/p24user/verbose-octo-enigma#readme"
+}
